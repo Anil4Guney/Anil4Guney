@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Anil4Guney (ANIL GÜNEY)
 - 👀 I’m interested in software and computer developmant
 - 🌱 I’m currently learning software
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me guneya912@gmail.com
 - I am from Turkey
 - I study at WSB Merito University Wroclaw
