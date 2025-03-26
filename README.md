@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me guneya912@gmail.com
 - I am from Turkey
-- I have been living in Poland for 1 year
 - I study at WSB Merito University Wroclaw
 - My department is Software Development.
 
