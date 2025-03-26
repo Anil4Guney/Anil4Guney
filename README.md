@@ -6,7 +6,7 @@
 - I am from Turkey
 - I have been living in Poland for 1 year
 - I study at WSB Merito University Wroclaw
-- My department is Software Development.I started this department in October and continue.
+- My department is Software Development.
 
 <!---
 Anil4Guney/Anil4Guney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
