@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software
 - 📫 How to reach me guneya912@gmail.com
 - I am from Turkey
-- I study at WSB Merito University Wroclaw
+- I study at WSB Merito University Wroclaw Poland
 - My department is Software Development.
 
 <!---
