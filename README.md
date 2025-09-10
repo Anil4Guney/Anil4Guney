@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Anil4Guney (ANIL GÜNEY)
-- 👀 I’m interested in software and computer developmant
 - 🌱 I’m currently learning software
 - 📫 How to reach me guneya912@gmail.com
 - I am from Turkey
