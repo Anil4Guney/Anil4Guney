@@ -7,7 +7,6 @@
 - **Languages**: Python, Java, JavaScript, HTML, CSS  
 - **Frameworks**: Django, Flask, Vue.js, Tailwind CSS  
 - **Tools**: Git, GitHub, PyCharm, VS Code  
-- **Other**: GitHub Actions (CI/CD), Automation
 
 ## 📫 Connect with Me  
 - 📧 Email: [guneya912@gmail.com](mailto:guneya912@gmail.com)  
