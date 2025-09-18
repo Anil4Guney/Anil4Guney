@@ -3,6 +3,12 @@
 🎓 Software Development Student at **WSB Merito University Wroclaw, Poland**  
 🌍 Originally from **Turkey**, currently studying in **Poland**  
 
+## 🛠️ Technologies & Tools  
+- **Languages**: Python, Java, JavaScript, HTML, CSS  
+- **Frameworks**: Django, Flask, Vue.js, Tailwind CSS  
+- **Tools**: Git, GitHub, PyCharm, VS Code  
+- **Other**: GitHub Actions (CI/CD), Automation
+
 ## 📫 Connect with Me  
 - 📧 Email: [guneya912@gmail.com](mailto:guneya912@gmail.com)  
 - 💼 LinkedIn: [Anıl Güney](https://www.linkedin.com/in/anil-güney-6a4651270)  
