@@ -4,7 +4,7 @@
 🌍 Originally from **Turkey**, currently studying in **Poland**  
 
 ## 🛠️ Technologies & Tools  
-- **Languages**: Python, Java, JavaScript, HTML, CSS  
+- **Languages**: Python, JavaScript, HTML, CSS  
 - **Frameworks**: Django, Flask, Vue.js, Tailwind CSS  
 - **Tools**: Git, GitHub, PyCharm, VS Code  
 
