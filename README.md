@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anıl Güney  
 
 🎓 Software Development Student at **WSB Merito University Wroclaw, Poland**  
-🌍 Originally from **Turkey**, currently studying in **Poland**  
+🌍 I'm from **Turkey**, currently studying in **Poland**  
 
 ## 🛠️ Technologies & Tools  
 - **Languages**: Python, JavaScript, HTML, CSS  
