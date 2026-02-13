@@ -4,9 +4,10 @@
 🌍 I'm from **Turkey**, currently studying in **Poland**  
 
 ## 🛠️ Technologies & Tools  
-- **Languages**: Python, JavaScript, HTML, CSS  
-- **Frameworks**: Django, Flask, Vue.js, Tailwind CSS  
-- **Tools**: Git, GitHub, PyCharm, VS Code  
+- **Languages:** JavaScript, Python, HTML, CSS
+- **Frameworks & Libraries:** Vue.js, Nuxt.js, PrimeVue, Django, Flask, Tailwind CSS
+- **Cloud & Architecture:** Microsoft Azure, Cloud-based Application Architecture
+- **Tools & AI:** Git, GitHub, VS Code, PyCharm, Cursor, Claude, Gemini, Lovable 
 
 ## 📫 Connect with Me  
 - 📧 Email: [guneya912@gmail.com](mailto:guneya912@gmail.com)  
