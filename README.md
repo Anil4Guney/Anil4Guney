@@ -4,7 +4,7 @@
 🌍 I'm from **Turkey**, currently studying in **Poland**  
 
 ## 🛠️ Technologies & Tools  
-- **Languages:** JavaScript, Python, HTML, CSS
+- **Languages:** JavaScript, Python, HTML, CSS, C#, SQL
 - **Frameworks & Libraries:** Vue.js, Nuxt.js, PrimeVue, Django, Flask, Tailwind CSS
 - **Cloud & Architecture:** Microsoft Azure, Cloud-based Application Architecture
 - **Tools & AI:** Git, GitHub, VS Code, PyCharm, Cursor, Claude, Gemini, Lovable 
